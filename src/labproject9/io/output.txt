@@ -1,0 +1,4 @@
+Most Populated: Newark	 - 311549
+Least Populated: Walpack	 - 7
+Total Population: 9270891 
+Average Population: 16555,16 

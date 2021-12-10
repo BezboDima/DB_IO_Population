@@ -1,0 +1,560 @@
+Aberdeen	19329
+Absecon	9137
+Alexandria	4809
+Allamuchy	5335
+Allendale	6848
+Allenhurst	472
+Allentown	1734
+Alloway	3283
+Alpha	2328
+Alpine	1762
+Andover	5996
+Andover borough	595
+Asbury Park	15188
+Atlantic City	38497
+Atlantic Highlands	4414
+Audubon	8707
+Audubon Park	991
+Avon-by-the-Sea	1933
+Barnegat	24296
+Barnegat Light	640
+Barrington	7075
+Bass River	1355
+Bay Head	930
+Bayonne	71686
+Beach Haven	1027
+Beachwood	10859
+Bedminster	8272
+Belleville	38222
+Bellmawr	11707
+Belmar	5907
+Belvidere	2520
+Bergenfield	28321
+Berkeley	43754
+Berkeley Heihts	13285
+Berlin	5867
+Berlin borough	7489
+Bernards	27830
+Bernardsville	7893
+Bethlehem	3745
+Beverly	2499
+Blairstown	5704
+Bloomfield	53105
+Bloomingdale	7777
+Bloomsbury	792
+Bogota	8778
+Boonton	4380
+Boonton town	8815
+Bordentown	11791
+Bordentown city	3993
+Bound Brook	11988
+Bradley Beach	4282
+Branchburg	14940
+Branchville	791
+Brick	73620
+Bridgeton	27263
+Bridgewater	45977
+Brielle	4982
+Brigantine	7716
+Brooklawn	1815
+Buena	4501
+Buena Vista	7033
+Burlington	23983
+Burlington city	9743
+Butler	8047
+Byram	8028
+Caldwell	9027
+Califon	1005
+Camden	71791
+Cape May	2768
+Cape May Point	305
+Carlstadt and Prospect Park	6372
+Carneys Point	8637
+Carteret	25326
+Cedar Grove	12980
+Chatham	10983
+Chatham borough	9212
+Cherry Hill	74553
+Chesilhurst	1536
+Chester	7713
+Chester borough	1681
+Chesterfield	9422
+Cinnaminson	17064
+City of Orange	34447
+Clark	15544
+Clayton	8807
+Clementon	5338
+Cliffside Park	25693
+Clifton	90296
+Clinton	13505
+Clinton town	2773
+Closter	8594
+Collingswood	14186
+Colts Neck	9957
+Commercial	4669
+Corbin City	471
+Cranbury	3842
+Cranford	23847
+Cresskill	9155
+Deal	900
+Deerfield	3136
+Delanco	4824
+Delaware	4560
+Delran	17882
+Demarest and Mendham borough	4981
+Dennis	6285
+Denville	17107
+Deptford	31977
+Dover	18460
+Downe	1399
+Dumont	17863
+Dunellen	7637
+Eagleswood	1722
+East Amwell	3917
+East Brunswick	49715
+East Greenwich	11706
+East Hanover	11105
+East Newark	2594
+East Orange	69612
+East Rutherford	10022
+East Windsor	30045
+Eastampton	6191
+Eatontown	13597
+Edgewater	14336
+Edgewater Park	8930
+Edison	107588
+Egg Harbor	47842
+Egg Harbor City	4396
+Elizabeth	137298
+Elk	4424
+Elmer	1347
+Elmwood Park	21422
+Elsinboro	1001
+Emerson	7290
+Englewood	29308
+Englewood Cliffs	5342
+Englishtown	2346
+Essex Fells	2244
+Estell Manor	1668
+Evesham	46826
+Ewing	37264
+Fair Haven	6269
+Fair Lawn	34927
+Fairfield	5546
+Fairfield township	7872
+Fairview	15025
+Fanwood	7774
+Far Hills	924
+Farmingdale	1504
+Fieldsboro	526
+Flemington	4876
+Florence	12812
+Florham Park	12585
+Folsom	1811
+Fort Lee	40191
+Frankford	5302
+Franklin	16380
+Franklin borough	4912
+Franklin Lakes	11079
+Franklin township	68364
+Franklin township	3267
+Franklin township	2968
+Fredon	3235
+Freehold	35369
+Freehold borough	12538
+Frelinghuysen	2199
+Frenchtown	1370
+Galloway	37813
+Garfield	32655
+Garwood	4454
+Gibbsboro	2189
+Glassboro	23149
+Glen Gardner	1682
+Glen Ridge	7802
+Glen Rock	12133
+Gloucester	66034
+Gloucester City	11484
+Green	3627
+Green Brook	7281
+Greenwich	771
+Greenwich township	5473
+Greenwich township	4917
+Guttenberg	12017
+Hackensack	46030
+Hackettstown	10248
+Haddon	15407
+Haddon Heights	7495
+Haddonfield	12550
+Hainesport	6035
+Haledon	9052
+Hamburg	3266
+Hamilton	27484
+Hamilton township	92297
+Hammonton	14711
+Hampton	4893
+Hampton borough	1438
+Hanover	14677
+Harding	3871
+Hardwick	1598
+Hardyston	8125
+Harmony	2503
+Harrington Park	4741
+Harrison	13641
+Harrison town	19450
+Harvey Cedars	391
+Hasbrouck Heights	12125
+Haworth	3343
+Hawthorne	19637
+Hazlet	20125
+Helmetta	2455
+Hi-Nella	927
+High Bridge	3546
+Highland Park	15072
+Highlands	4621
+Hightstown	5900
+Hillsborough	43276
+Hillsdale	10143
+Hillside	22456
+Ho-Ho-Kus	4258
+Hoboken	60419
+Holland	5177
+Holmdel	17400
+Hopatcong	14362
+Hope	1835
+Hopewell	4391
+Hopewell borough	1918
+Hopewell township	17491
+Howell	53537
+Independence	5469
+Interlaken	828
+Irvington	61176
+Island Heights	1650
+Jackson	58544
+Jamesburg	5783
+Jefferson	20538
+Jersey City	292449
+Keansburg	9755
+Kearny	41999
+Kenilworth	8427
+Keyport	7204
+Kingwood	3802
+Kinnelon	9966
+Knowlton	2894
+Lacey	28655
+Lafayette	2358
+Lake Como	1697
+Lakehurst	2636
+Lakewood	135158
+Lambertville	4139
+Laurel Springs	1978
+Lavallette	1787
+Lawnside	2955
+Lawrence	3087
+Lawrence township	33077
+Lebanon	6195
+Lebanon borough	1665
+Leonia	9304
+Liberty	2670
+Lincoln Park	10915
+Linden	43738
+Lindenwold	21641
+Linwood	6971
+Little Egg Harbor	20784
+Little Falls	13360
+Little Ferry	10987
+Little Silver	6131
+Livingston	31330
+Loch Arbour	224
+Lodi	26206
+Logan	6000
+Long Beach	3153
+Long Branch	31667
+Long Hill	8629
+Longport	893
+Lopatcong	8776
+Lower	22057
+Lower Alloways Creek	1717
+Lumberton	12803
+Lyndhurst	22519
+Madison	16937
+Magnolia	4352
+Mahwah	25487
+Manalapan	40905
+Manasquan	5938
+Manchester	45115
+Mannington	1475
+Mansfield	8897
+Mansfield township	7781
+Mantoloking	331
+Mantua	15235
+Manville	10953
+Maple Shade	19980
+Maplewood	25684
+Margate City	5317
+Marlboro	41502
+Matawan	9565
+Maurice River	6218
+Maywood	10080
+Medford	24497
+Medford Lakes and Westville	4264
+Mendham	6016
+Merchantville	3820
+Metuchen	15049
+Middle	20380
+Middlesex	14636
+Middletown	67106
+Midland Park	7014
+Milford	1232
+Millburn	21710
+Millstone	10376
+Millstone borough	448
+Milltown	7037
+Millville	27491
+Mine Hill	4015
+Monmouth Beach	3174
+Monroe	37117
+Monroe township	48594
+Montague	3792
+Montclair	40921
+Montgomery	23690
+Montvale	8436
+Montville	22450
+Moonachie	3133
+Moorestown	21355
+Morris	22974
+Morris Plains	6153
+Morristown	20180
+Mount Arlington	5909
+Mount Ephraim	4651
+Mount Holly	9981
+Mount Laurel	44633
+Mount Olive	28886
+Mountain Lakes	4472
+Mountainside	7020
+Mullica	5816
+National Park	3026
+Neptune	28061
+Neptune City	4626
+Netcong	3375
+New Brunswick	55266
+New Hanover	6367
+New Milford	16923
+New Providence	13650
+Newark	311549
+Newfield	1774
+Newton	8374
+North Arlington	16457
+North Bergen	63361
+North Brunswick	43905
+North Caldwell	6694
+North Haledon	8927
+North Hanover	7963
+North Plainfield	22808
+North Wildwood	3621
+Northfield	8434
+Northvale	4761
+Norwood	5641
+Nutley	30143
+Oakland	12748
+Oaklyn	3930
+Ocean	27672
+Ocean City	11229
+Ocean Gate	1932
+Ocean township	8835
+Oceanport	6150
+Ogdensburg	2258
+Old Bridge	66876
+Old Tappan	5888
+Oldmans	1910
+Oradell	8244
+Oxford	2444
+Palisades Park	20292
+Palmyra	7438
+Paramus	26698
+Park Ridge	8883
+Parsippany-Troy Hills	56162
+Passaic	70537
+Paterson	159732
+Paulsboro	6196
+Peapack and Gladstone	2558
+Pemberton	26903
+Pemberton borough	1371
+Pennington	2802
+Penns Grove	4837
+Pennsauken	37074
+Pennsville	12684
+Pequannock	15571
+Perth Amboy	55436
+Phillipsburg	15249
+Pilesgrove	4183
+Pine Beach	2139
+Pine Hill	10743
+Pine Valley	21
+Piscataway	60804
+Pitman	8780
+Pittsgrove	8777
+Plainfield	54586
+Plainsboro	24084
+Pleasantville	20629
+Plumsted	8072
+Pohatcong	3241
+Point Pleasant	18941
+Point Pleasant Beach	4766
+Pompton Lakes	11127
+Port Republic	1101
+Princeton	30681
+Quinton	2580
+Rahway	29556
+Ramsey	14798
+Randolph	26504
+Raritan	23447
+Raritan borough	7835
+Readington	16128
+Red Bank	12936
+Ridgefield	11501
+Ridgefield Park	13224
+Ridgewood	25979
+Ringwood	11735
+River Edge	12049
+River Vale	9909
+Riverdale	4107
+Riverside	8003
+Riverton	2764
+Robbinsville	15476
+Rochelle Park	5814
+Rockaway	25341
+Rockaway borough	6598
+Rockleigh	407
+Rocky Hill	743
+Roosevelt	808
+Roseland	6299
+Roselle	22695
+Roselle Park	13967
+Roxbury	22950
+Rumson	7343
+Runnemede	8324
+Rutherford	18834
+Saddle Brook	14294
+Saddle River	3372
+Salem	5296
+Sandyston	1977
+Sayreville	45345
+Scotch Plains	24968
+Sea Bright	1449
+Sea Girt	1866
+Sea Isle City	2104
+Seaside Heights	2440
+Seaside Park	1436
+Secaucus	22181
+Shamong	6460
+Shiloh	444
+Ship Bottom	1098
+Shrewsbury	1076
+Shrewsbury borough	4184
+Somerdale	5566
+Somers Point	10469
+Somerville	12346
+South Amboy	9411
+South Bound Brook	4863
+South Brunswick	47043
+South Hackensack	2701
+South Harrison	3395
+South Orange Village	18484
+South Plainfield	24338
+South River	16118
+South Toms River	3643
+Southampton	10317
+Sparta	19600
+Spotswood	8163
+Spring Lake	2789
+Spring Lake Heights	4890
+Springfield	3245
+Springfield township	17178
+Stafford	28617
+Stanhope	3526
+Stillwater	4004
+Stockton	495
+Stone Harbor	796
+Stow Creek	1312
+Stratford	6981
+Summit	22719
+Sussex	2024
+Swedesboro	2711
+Tabernacle	6776
+Tavistock	9
+Teaneck	41246
+Tenafly	15409
+Teterboro	61
+Tewksbury	5870
+Tinton Falls	19181
+Toms River	95438
+Totowa	11065
+Trenton	90871
+Tuckerton	3577
+Union	6507
+Union Beach	5723
+Union City	68589
+Union township	59728
+Upper	12539
+Upper Deerfield	7645
+Upper Freehold	7273
+Upper Pittsgrove	3432
+Upper Saddle River	8353
+Ventnor City	9210
+Vernon	22358
+Verona	14572
+Victory Gardens	1582
+Vineland	60780
+Voorhees	31069
+Waldwick	10058
+Wall	26525
+Wallington	11868
+Walpack	7
+Wanaque	11317
+Wantage	10811
+Warren	15923
+Washington	9285
+Washington borough	7299
+Washington township	48677
+Washington township	18197
+Washington township	6492
+Washington township	693
+Watchung	6449
+Waterford	10421
+Wayne	54838
+Weehawken	17197
+Wenonah	2283
+West Amwell	3005
+West Caldwell	11012
+West Cape May	1010
+West Deptford	22197
+West Long Branch	8587
+West Milford	24862
+West New York	52912
+West Orange	48843
+West Wildwood	540
+West Windsor	29518
+Westampton	9121
+Westfield	31032
+Westwood	11282
+Weymouth	2614
+Wharton	7241
+White	4606
+Wildwood	5157
+Wildwood Crest	3101
+Willingboro	31889
+Winfield	1423
+Winslow	39907
+Wood-Ridge	10137
+Woodbine	2128
+Woodbridge	103639
+Woodbury	9963
+Woodbury Heights	3098
+Woodcliff Lake	6128
+Woodland	1544
+Woodland Park	13484
+Woodlynne	2902
+Woodstown	3678
+Woolwich	12577
+Wrightstown	720
+Wyckoff	16585
